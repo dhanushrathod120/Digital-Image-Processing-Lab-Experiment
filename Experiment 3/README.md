@@ -20,6 +20,7 @@ Arithmetic Encoding is a lossless data compression technique that represents a s
 - Step-by-step encoding process  
 - Displays low and high interval ranges for each symbol  
 - Outputs the final encoded value  
+
 ---
 
 ## 2. JPEG & JPEG2000 Compression (MATLAB)
@@ -28,12 +29,12 @@ Arithmetic Encoding is a lossless data compression technique that represents a s
 This experiment simulates image compression techniques using JPEG and JPEG2000 standards.
 
 ### JPEG Compression
-- Uses Discrete Cosine Transform (DCT)
-- Block-based image compression
+- Uses Discrete Cosine Transform (DCT)  
+- Block-based image compression  
 
 ### JPEG2000 Compression
-- Uses Haar Wavelet Transform
-- Improved compression performance at higher compression ratios
+- Uses Haar Wavelet Transform  
+- Improved compression performance at higher compression ratios  
 
 ### Features
 - RGB to YCbCr color space conversion  
@@ -59,7 +60,3 @@ This module performs statistical hypothesis testing using the critical value met
 ## Technologies Used
 - MATLAB  
 - Python  
-
-
-
-
